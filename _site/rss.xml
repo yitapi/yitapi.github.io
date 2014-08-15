@@ -3,10 +3,10 @@
 <channel>
         <title>YAYB</title>
         <description>YAYB - Ning Yin</description>
-        <link>http://yitapi.github.io</link>
-        <link>http://yitapi.github.io</link>
-        <lastBuildDate>2014-08-15T14:24:10+08:00</lastBuildDate>
-        <pubDate>2014-08-15T14:24:10+08:00</pubDate>
+        <link>yitapi</link>
+        <link>yitapi</link>
+        <lastBuildDate>2014-08-15T14:39:25+08:00</lastBuildDate>
+        <pubDate>2014-08-15T14:39:25+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -14,8 +14,8 @@
                 <title>Hello World</title>
                 <description>
 </description>
-                <link>http://yitapi.github.io/2014/08/15/hello-world</link>
-                <guid>http://yitapi.github.io/2014/08/15/hello-world</guid>
+                <link>yitapi/2014/08/15/hello-world</link>
+                <guid>yitapi/2014/08/15/hello-world</guid>
                 <pubDate>2014-08-15T00:00:00+08:00</pubDate>
         </item>
 

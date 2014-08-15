@@ -1,11 +1,11 @@
 
-http://yitapi.github.io/archive.html
-http://yitapi.github.io/atom.xml
-http://yitapi.github.io/categories.html
-http://yitapi.github.io/index.html
-http://yitapi.github.io/pages.html
-http://yitapi.github.io/rss.xml
-http://yitapi.github.io/sitemap.txt
-http://yitapi.github.io/tags.html
+yitapi/archive.html
+yitapi/atom.xml
+yitapi/categories.html
+yitapi/index.html
+yitapi/pages.html
+yitapi/rss.xml
+yitapi/sitemap.txt
+yitapi/tags.html
 
-http://yitapi.github.io/2014/08/15/hello-world
+yitapi/2014/08/15/hello-world
