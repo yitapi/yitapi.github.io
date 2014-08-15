@@ -62,5 +62,3 @@ html, body {
   border:1px solid #4C964D;
   color:#FFF;
 }
-code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
-
