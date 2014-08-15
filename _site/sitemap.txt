@@ -1,13 +1,11 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://yitapi.github.io/archive.html
+http://yitapi.github.io/atom.xml
+http://yitapi.github.io/categories.html
+http://yitapi.github.io/index.html
+http://yitapi.github.io/pages.html
+http://yitapi.github.io/rss.xml
+http://yitapi.github.io/sitemap.txt
+http://yitapi.github.io/tags.html
 
-http://username.github.io/2014/08/15/hello-world
-http://username.github.io/core-samples/lessons/2011/12/29/jekyll-introduction
+http://yitapi.github.io/2014/08/15/hello-world
