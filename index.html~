@@ -1,7 +1,6 @@
 ---
 layoutt: default
 title: 我的Blog
-encoding: utf-8
 ---
 <h2>{{ page.title }}</h2>
 <p>最新文章</p>
