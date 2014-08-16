@@ -5,11 +5,11 @@ tagline: Yet another y blog
 ---
 {% include JB/setup %}
 
-### Recent Posts
+### Recent Posts  
 
 <ul>
   {% for post in site.posts limit: 5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
