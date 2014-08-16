@@ -5,8 +5,11 @@ tagline: Yet another y blog
 ---
 {% include JB/setup %}
 
+### Recent Posts
 
-{% for post in site.posts %}
-{% include JB/posts_collate %}
-{% endfor %}
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
 

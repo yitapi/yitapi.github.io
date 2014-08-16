@@ -12,5 +12,4 @@
 {% when "custom" %}
   {% include custom/analytics %}
 {% endcase %}
-
 {% endif %}
