@@ -2,7 +2,7 @@
 layout: post
 title: "Rosalind with Julia"
 description: ""
-category:技术 
+category: 技术 
 tags: [julia, bioinformatics, rosalind]
 ---
 {% include JB/setup %}
