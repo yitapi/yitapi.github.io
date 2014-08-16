@@ -20,7 +20,7 @@ tags: [julia, bioinformatics, rosalind]
 A = countnz([x == 'A' ? 1 : 0 for x in dna])
 {% endhighlight %}
 其中， `countnz`这个函数的作用是数出一个序列里面非零元素的个数。
-<br>
+<br><br>
 第二个是DNA转RNA, 这个也很简单，就是把DNA里面的T（胸腺嘧啶）换成RNA里的U（尿嘧啶）
 {% highlight julia %}
 print(replace(dna, r"T", 'U'))
