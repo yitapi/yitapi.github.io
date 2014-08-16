@@ -26,11 +26,13 @@ A = countnz([x == 'A' ? 1 : 0 for x in dna])
 {% highlight julia %}
 print(replace(dna, r"T", 'U'))
 {% endhighlight %}
-<br>
+<br><br>
 
-第三个是反向互补序列，这个会稍微复杂一点。（顺便测试一下gist。。）这里面dna序列文件是存储在`dna3.txt`里。
+
+第三个是反向互补序列，这个会稍微复杂一点。（顺便测试一下gist。。）这里面DNA序列是存储在文件`dna3.txt`里。
 {% gist yitapi/788e83377965449cd328 %}
-<br>
+<br><br>
+
 
 OK 就这样。。明天有空继续。
 
