@@ -13,7 +13,7 @@ tags: [julia, bioinformatics, rosalind]
  - 最近开始接触[julia](http://julialang.org)，看上去是个很有希望的语言;
  - 最近闲的蛋疼;
 
-我决定开始用julia做一下Rosalind上面的问题。今天是第一天= =，做了最简单的三道题，都是非常简单的序列操作。下面这些代码里面`dna`指的就是操作对象，一个存储为`String`类型的DNA序列。
+我决定开始用julia做一下Rosalind上面的问题。我选择的是网站上Problems里面的Bioinformatics Stronghold类别。今天是第一天= =，做了最简单的三道题，都是非常简单的序列操作。下面这些代码里面`dna`指的就是操作对象，一个存储为`String`类型的DNA序列。
 
 第一个是数数，就是给一段DNA序列，数里面各种碱基(nucleotide)各有多少。
 {% highlight julia %}
