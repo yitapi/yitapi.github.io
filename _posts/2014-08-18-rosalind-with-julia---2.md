@@ -16,7 +16,7 @@ countnz([ x - y for (x,y) in zip(a, b)])
 这里面`a`和`b`分别是两段DNA序列。不是太清楚这句里面`zip`函数是不是必要，不过这样能工作。。（有空要研究一下这个。。）
 <br><br>
 第二个问题也比较简单，就是在一段DNA里面找motif，输出所有motif在DNA中的起始位置。比如
-	GATATATGCATATACTT
+> GATATATGCATATACTT
 中，motif`ATAT`就在第2、4、10三处都出现了（中间有overlap）。Julia里面提供了`searchindex`函数，刚好就是搜motif的，只不过它只给出第一个，所以需要写一个循环。
 {% highlight julia %}
 no = Int32[]
