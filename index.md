@@ -9,6 +9,6 @@ tagline: Yet another y blog
 
 <ul>
   {% for post in site.posts limit: 5 %}
-    <li><span>{{ post.date | date: "%-m/%-d/%y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date: "%m/%d/%y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
