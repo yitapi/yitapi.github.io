@@ -85,7 +85,7 @@ quote  # /home/filius/.julia/Memoize/src/Memoize.jl, line 92:
         end
     end
 end
-{% end highlight %}
+{% endhighlight %}
 看起来好复杂。。不过仔细看一下，其实他也就是用了个`ObjectIdDict`存储了已经运算过的结果而已（。。虽然说起来简单不过我还是写不出来。。）
 
 相比之下，计算一段RNA中所有可能的noncrossing perfect matching的数目要更复杂一些，这个是我的十分不优美的实现。。
